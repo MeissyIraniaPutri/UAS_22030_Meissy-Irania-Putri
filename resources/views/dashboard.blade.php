@@ -12,6 +12,13 @@
                     {{ __("You're logged in!") }}
                 </div>
             </div>
+
+            <!-- Tambahkan Komponen Livewire di sini -->
+            <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg mt-6">
+                <div class="p-6 text-gray-900">
+                    @livewire('mahasiswa-form')
+                </div>
+            </div>
         </div>
     </div>
 </x-app-layout>
