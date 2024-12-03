@@ -38,4 +38,16 @@ class MahasiswaForm extends Component
     {
         return view('livewire.mahasiswa-form');
     }
+
+    public function delete($id)
+    {
+        $mahasiswa = Mahasiswa::find($id);
+        if ($mahasiswa) {
+            $mahasiswa->delete();
+
+            $this->mahasiswa = $this->mahasiswa->filter(function ($item) use ($id) {
+                return $item->id !== $id;
+            });
+        }
+    }
 }
