@@ -1,8 +1,8 @@
-Nama : Meissy Irania Putri
-Universitas : Universitas Singaperbangsa Karawang
-Prodi : Informatika
-Mata Kuliah: Framework Pemrograman Web
-Dosen Pengampu : Kamal Prihandani. M.Kom.
+- Nama : Meissy Irania Putri
+- Universitas : Universitas Singaperbangsa Karawang
+- Prodi : Informatika
+- Mata Kuliah: Framework Pemrograman Web
+- Dosen Pengampu : Kamal Prihandani. M.Kom.
 
 
 permisi pak saya lupa mengupload file sqlnya, izin disimpan disini karena formnya tidak dapat diisi kembali
