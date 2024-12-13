@@ -5,6 +5,7 @@ Mata Kuliah: Framework Pemrograman Web
 Dosen Pengampu : Kamal Prihandani. M.Kom.
 
 
+permisi pak saya lupa mengupload file sqlnya, izin disimpan disini karena formnya tidak dapat diisi kembali
 
 
 
